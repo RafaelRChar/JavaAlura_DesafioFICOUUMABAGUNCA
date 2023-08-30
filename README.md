@@ -1,4 +1,4 @@
-
+![Thumb para usar](https://github.com/RafaelRChar/JavaAlura_DesafioFICOUUMABAGUNCA/blob/main/Thumb%20para%20usar%20(Melhorzinha).gif)
 # Desafio (Forma que eu fiz)
 > A forma da qual eu fiz ficou bem diferente do desafio em si, pois eu vi apenas o primeiro vídeo e tentei fazer uma coisa "Diferente"
 > Vi que tinha outras formas de fazer os procedimentos que fiz no código. Eu fiz meio que uma lista de cartões para o usuário ficar gastando

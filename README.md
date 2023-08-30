@@ -1,8 +1,10 @@
 ![Thumb para usar](https://github.com/RafaelRChar/JavaAlura_DesafioFICOUUMABAGUNCA/blob/main/Thumb%20para%20usar%20(Melhorzinha).gif)
 # Desafio (Forma que eu fiz)
-> A maneira como fiz foi bem diferente do desafio original. Só assisti ao primeiro vídeo e resolvi fazer algo "out of the box". Notei que havia outras formas de
-> abordar o código. Acabei criando uma lista de cartões meio sem sentido para os usuários usarem, mais para brincar com listas. Fiquei um pouco perdido, mas curti o
-> resultado final. vou tentar fazer algo mais simples quando tiver mais tranquilo :)
+> A maneira como fiz foi bem diferente do "desafio original", no caso no que é proposto no vídeo. Só assisti ao primeiro
+> vídeo e resolvi fazer algo "Diferente" Notei que Havia outras formas de abordar o código. Acabei criando uma lista de cartões meio sem sentido para os usuários
+> usarem, mais para brincar com listas. Fiquei um pouco Perdido, mas curti o resultado final. vou tentar fazer algo mais simples quando tiver mais tranquilo :)
+
+* O usuário pode fazer compra com vários cartões e assim que o limite dele zera ele tem que pegar outro, não faz sentindo nenhum mas eu queria tentar fazer algo assim com listas.
 
 ## 🔨 Objetivos do projeto
 

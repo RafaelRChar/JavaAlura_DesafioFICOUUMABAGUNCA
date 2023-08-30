@@ -1,9 +1,8 @@
 ![Thumb para usar](https://github.com/RafaelRChar/JavaAlura_DesafioFICOUUMABAGUNCA/blob/main/Thumb%20para%20usar%20(Melhorzinha).gif)
 # Desafio (Forma que eu fiz)
-> A forma da qual eu fiz ficou bem diferente do desafio em si, pois eu vi apenas o primeiro vídeo e tentei fazer uma coisa "Diferente"
-> Vi que tinha outras formas de fazer os procedimentos que fiz no código. Eu fiz meio que uma lista de cartões para o usuário ficar gastando
-> Não faz realmente sentindo nenhum, eu só queria tentar brincar mais com as listas... eu acabei ficando meio perdido mas gostei do resultado final
-> Enfim, depois eu vou tentar fazer mais parecido com a do vídeo, mas pelo menos cumpri todos os requisitos!
+> A maneira como fiz foi bem diferente do desafio original. Só assisti ao primeiro vídeo e resolvi fazer algo "out of the box". Notei que havia outras formas de
+> abordar o código. Acabei criando uma lista de cartões meio sem sentido para os usuários usarem, mais para brincar com listas. Fiquei um pouco perdido, mas curti o
+> resultado final. vou tentar fazer algo mais simples quando tiver mais tranquilo :)
 
 ## 🔨 Objetivos do projeto
 
